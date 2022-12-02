@@ -1,3 +1,3 @@
 # Filtering numbers with Kotlin
 
-![](filter-numbers.gif)
+<img src="filter-numbers.gif"/>
